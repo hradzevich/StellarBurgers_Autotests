@@ -1,1 +1,7 @@
-# StellarBurgers_Autotests
+### Этот репозиторий объединяет три набора автоматизированных тестов, написанных в рамках дипломного проекта Яндекс Практикум для веб-приложения Stellar Burger:
+
+**Unit-tests** — юнит-тесты, покрывающие класс `Burger` сервиса Stellar Burgers 
+
+**API-tests** — API-тесты сервиса Stellar Burgers 
+
+**UI-tests** — UI-тесты сервиса Stellar Burgers 
